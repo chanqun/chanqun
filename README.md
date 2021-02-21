@@ -4,7 +4,8 @@
 ⚡
 -  The Department of Mathematics at Kyung Hee University
 -  KT intership - Cloud Platform (20.01.20 ~ 20.02.28)
--  NTS - Platform Service (Line Pay Development) (https://www.nts-corp.com/) (20.10.19 ~ )
+-  NTS internship (20.10.09 ~ 20.12.11)
+-  NTS - Platform Service (Line Pay Development) (https://www.nts-corp.com/) (20.12.14 ~ )
 
 🌱
 - KT - AI,SW 아카데미 (19.12.23 ~ 20.01.17)
