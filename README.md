@@ -15,4 +15,3 @@
 🔭
 - ACM-ICPC 교내예선 (6위 장려상) (19.10.05)
 
-![HitCount](http://hits.dwyl.com/https://github.com/cksgns93.html.svg)
