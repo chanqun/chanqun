@@ -6,6 +6,7 @@
 -  KT intership - Cloud Platform (20.01.20 ~ 20.02.28)
 -  NTS internship (20.10.09 ~ 20.12.11)
 -  NTS - Platform Service (Line Pay Development) (20.12.14 ~ 21.05.28)
+-  싸이월드랩스 (21.05.31 ~ )
 
 🌱
 - KT - AI,SW 아카데미 (19.12.23 ~ 20.01.17)
