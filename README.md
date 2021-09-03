@@ -6,7 +6,7 @@
 -  KT intership - Cloud Platform (20.01.20 ~ 20.02.28)
 -  NTS internship (20.10.09 ~ 20.12.11)
 -  NTS - Platform Service (Line Pay Development) (20.12.14 ~ 21.05.28)
--  CyworldLabs (21.05.31 ~ )
+-  CyworldLabs - 백엔드 개발 (21.05.31 ~ )
 
 🌱
 - KT - AI,SW 아카데미 (19.12.23 ~ 20.01.17)
@@ -14,6 +14,6 @@
 - 삼성 SDS 알고리즘 특강 (20.08.10 ~ 20.08.21)
 
 🔭
-- 삼성 소프트웨어 역량테스트 A등급 (19.09.07)
+- 삼성 소프트웨어 역량테스트 A등급 (19.09.07 - 21.09.07)
 - ACM-ICPC 교내예선 (6위 장려상) (19.10.05)
 
