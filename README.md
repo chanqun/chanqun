@@ -6,7 +6,7 @@
 -  KT intership - Cloud Platform (20.01.20 ~ 20.02.28)
 -  NTS internship (20.10.09 ~ 20.12.11)
 -  NTS - Platform Service [(Line Pay Development)](https://pay.line.me/portal/global/main?isFooterConventionChanged=true) (20.12.14 ~ 21.05.28)
--  CyworldLabs - [백엔드 개발](https://cyclub.io/) (21.05.31 ~ )
+-  Betalabs - [백엔드 개발](https://cyclub.io/) (21.05.31 ~ )
 
 🌱
 - KT - AI,SW 아카데미 (19.12.23 ~ 20.01.17)
