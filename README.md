@@ -16,8 +16,3 @@
 🔭
 - 삼성 소프트웨어 역량테스트 A등급 (19.09.07 - 21.09.07)
 - ACM-ICPC 교내예선 (6위 장려상) (19.10.05)
-
-## Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=chanqun&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/chanqun)
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=chanqun&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/chanqun)
-
