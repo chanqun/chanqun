@@ -1,5 +1,6 @@
 ⚡
--  Betalabs - [백엔드 개발](https://www.betalabs.kr/) (21.05.31 ~ )
+-  WikiLabs - 백엔드 개발 (23.06.01 ~ )
+-  Betalabs - [백엔드 개발](https://www.betalabs.kr/) (21.05.31 ~ 23.05.31)
 -  NTS - Platform Service [(Line Pay Development)](https://pay.line.me/portal/global/main?isFooterConventionChanged=true) (20.12.14 ~ 21.05.28)
 -  NTS internship (20.10.09 ~ 20.12.11)
 -  KT intership - Cloud Platform (20.01.20 ~ 20.02.28)
