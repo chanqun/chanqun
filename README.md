@@ -7,9 +7,9 @@
 -  The Department of Mathematics at Kyung Hee University (14.03.02 ~ 20.02.17)
 
 🔭
-- PCCP lv3 (23.01.15 ~ )
+- PCCP lv3 (23.01.15 ~ 25.1.14)
 - ACM-ICPC intra-qualifications (6th place, encouragement award)  (19.10.05)
-- Samsung Software Competency Test, Grade A (19.09.07 - 21.09.07)
+- Samsung Software Competency Test, Grade A (19.09.07 - 21.09.06)
 
 🌱
 - Samsung SDS Algorithm Special Lecture (20.08.10 ~ 20.08.21)
